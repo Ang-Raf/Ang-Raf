@@ -1,7 +1,7 @@
 # 👋 Hola, soy Angel Rafael  
 
 🎓 Estudiante de **Ingeniería Mecatrónica** con interés en el **desarrollo de software**, **diseño electrónico** y el sector **automotriz e industrial**.  
-----Me apasiona aprender nuevas tecnologías y aplicar mis conocimientos en proyectos prácticos.  
+----Gran interes en aprender nuevas tecnologías y aplicar mis conocimientos en proyectos prácticos.  
 ----**Mi correo institucional es:** rela030913@gs.utm.mx
 
 ---
